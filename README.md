@@ -1,8 +1,8 @@
 # Python-Basic-Programming
 Program Title                                                                                                                                           
-....Remove number from name of file.
+....A]..Remove number from name of file.
 
-.... Guess the Number                                                                                                          
+.... B]..Guess the Number                                                                                                          
     Objectives:                                                                                                          
         Study
             1.Random function
