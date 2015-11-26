@@ -16,3 +16,4 @@ Program Title
         4.If correct guess
             Positive message should appaer
         5.Max attempts alloed are 3.
+....C]..Copying content of file with adding line numbers in front of each line.
